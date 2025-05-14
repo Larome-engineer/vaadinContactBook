@@ -1,0 +1,27 @@
+vaadin:
+  launch-browser: true
+
+spring:
+  application:
+    name: contactBook
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/contacts
+    username: postgres
+    password: postgres
+
+flyway:
+  enabled: true
+  baseline-on-migrate: true
+  locations: 'classpath:db/migration'
+
+postgresContainerName: "my_postgres"
+postgresStart: "/home/roman/MyScripts/docker-start.sh"
+postgresStop: "/home/roman/MyScripts/docker-stop.sh"
+containerExists: "/home/roman/MyScripts/psExists.sh"
+contactIcon: "https://cdn-icons-png.flaticon.com/512/4322/4322991.png"
+
+download-path: "/home/roman/contacts.json"
+
+server:
+  port: 7070

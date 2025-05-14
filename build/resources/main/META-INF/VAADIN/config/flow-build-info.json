@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/mnt/C4F414D3F414C996/Projects/Java/SmirnovLabs/contactBook",
+  "node.version": "v22.13.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "/mnt/C4F414D3F414C996/Projects/Java/SmirnovLabs/contactBook/./src/main/frontend",
+  "connect.javaSourceFolder": "/mnt/C4F414D3F414C996/Projects/Java/SmirnovLabs/contactBook/src/main/java",
+  "javaResourceFolder": "/mnt/C4F414D3F414C996/Projects/Java/SmirnovLabs/contactBook/src/main/resources",
+  "connect.applicationProperties": "/mnt/C4F414D3F414C996/Projects/Java/SmirnovLabs/contactBook/src/main/resources/application.properties",
+  "connect.openApiFile": "/mnt/C4F414D3F414C996/Projects/Java/SmirnovLabs/contactBook/build/generated-resources/openapi.json",
+  "project.frontend.generated": "/mnt/C4F414D3F414C996/Projects/Java/SmirnovLabs/contactBook/./src/main/frontend/generated",
+  "pnpm.enable": false,
+  "bun.enable": false,
+  "require.home.node": false,
+  "build.folder": "build",
+  "react.enable": true
+}

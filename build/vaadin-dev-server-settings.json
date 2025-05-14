@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/mnt/C4F414D3F414C996/Projects/Java/SmirnovLabs/contactBook/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/mnt/C4F414D3F414C996/Projects/Java/SmirnovLabs/contactBook/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/mnt/C4F414D3F414C996/Projects/Java/SmirnovLabs/contactBook/build/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/mnt/C4F414D3F414C996/Projects/Java/SmirnovLabs/contactBook/build/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/mnt/C4F414D3F414C996/Projects/Java/SmirnovLabs/contactBook/build/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/mnt/C4F414D3F414C996/Projects/Java/SmirnovLabs/contactBook/build/dev-bundle/webapp",
+  "devBundleStatsOutput": "/mnt/C4F414D3F414C996/Projects/Java/SmirnovLabs/contactBook/build/dev-bundle/config",
+  "jarResourcesFolder": "/mnt/C4F414D3F414C996/Projects/Java/SmirnovLabs/contactBook/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/mnt/C4F414D3F414C996/Projects/Java/SmirnovLabs/contactBook/build/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
